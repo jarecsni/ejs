@@ -1,6 +1,6 @@
 # EJS
 
-Embedded JavaScript templates.
+Embedded JavaScript templates (forked on GitHub to merge support for dynamic includes)
 
 [![Build Status](https://travis-ci.org/visionmedia/ejs.png)](https://travis-ci.org/visionmedia/ejs)
 
